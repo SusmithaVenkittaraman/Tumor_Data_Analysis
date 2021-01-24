@@ -4,5 +4,5 @@ The different treatments and the result of tumor volume in the dataset and diffe
 
 # Getting Started
 
-1.Open Jupyter Notebook file to see the analysis and the code.
-2.The data used in the analysis is present in the Data folder
+1. Open Jupyter Notebook file to see the analysis and the code.
+2. The data used in the analysis is present in the Data folder
